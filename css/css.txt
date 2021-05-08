@@ -1,0 +1,14 @@
+SYNTAX
+~~~~~~~~~~~
+selector{ property : value;}
+
+who?     What?       How?
+
+############################################################
+Class Selector
+~~~~~~~~~~~~~~
+dot class_name{ property : value;}
+
+.broccoli{
+    background-color : green;
+}
