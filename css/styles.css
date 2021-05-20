@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: azure;
 }
@@ -47,3 +48,5 @@ a:hover{
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+=======
+>>>>>>> 21e3bd3e1b9230c276db68eb1570a315958f9606
